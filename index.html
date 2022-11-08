@@ -1,0 +1,80 @@
+<html>
+    <meta charset="utf-8"/>
+    <title>FORM ĐĂNG KÝ</title>
+
+    <body>
+        <form action="signin.asp" method="post">
+            <h2 style="text-align: center;">.: ĐĂNG KÝ NGƯỜI DÙNG :.</h2>
+        <hr>
+        <p style="text-align: center;">
+        <b>Tên đăng nhập: <input type="username" name="username"/> <b style="color:red">*</b>
+        </br></br><b>Mật khẩu: <input type="password" name="password"/> <b style="color:red">*</b>
+        </br></br><b>(Tối thiểu 5 ký tự)
+        </br></br><b>Gõ lại mật khẩu: <input type="password" name="password"/> <b style="color:red">*</b>
+        <hr>
+        
+        <b><i>:: Nhập lại thông tin để lấy lại mật khẩu khi quên</i></b>
+
+        <p style="text-align: center;">
+    </br><b>Câu hỏi bí mật:</b><select name="[secretquestion]">
+        <option value="film">[Câu hỏi bí mật]</option>
+        <option value="music">Ca sĩ bạn hâm mộ là ai?</option>
+        <option value="food">Món ăn bạn ghét nhất?</option>
+        <option value="drink">Thức uống bạn thường uống vào buổi sáng?</option>
+    </select>
+    </br></br><b>Trả lời: </b><input type="answer" name="answer"/>
+        </p>
+        
+        <hr>
+        <b><i>:: Thông tin cá nhân</i></b>
+
+        <p style="text-align:center;">
+        </br></br><b>Họ và chữ lót: </b><input type="lastname" name="lastname"/>
+        </br></br><b>Tên: </b><input type="name" name="name"/>
+        </br></br><b>Ngày sinh: </b><select name="1">
+            <option value="month">1</option>
+            <option value="month">2</option>
+            <option value="month">3</option>
+            <option value="month">4</option>
+            <option value="month">5</option>
+            <option value="month">6</option>
+            <option value="month">7</option>
+            <option value="month">8</option>
+            <option value="month">9</option>
+            <option value="month">10</option>
+            <option value="month">11</option>
+            <option value="month">12</option>
+
+        </select> , <input type="day" name="day"> , <input type="year" name="year"> (Month, DD, YYYY)
+        </br></br><b>Giới tính: </b><input type="radio" name="gender" value="male" checked="checked"/>Male<input type="radio" name="gender" value="female" check="checked"/>Femail
+        </br></br><b>Nghề nghiệp liên quan: </b><select name="[career]">
+            <option value="film">[Chọn ngành nghề]</option>
+            <option value="music">Văn phòng</option>
+            <option value="food">Lao động chân tay</option>
+            <option value="drink">Showbiz</option>
+        </select>
+        </p>
+        
+        <hr>        
+        <b><i>:: Sở thích (tùy chọn)</i></b></br>
+
+
+        <p>
+            <input type="checkbox" name="music" value="music"/>Âm nhạc
+            <input type="checkbox" name="travel" value="travel"/>Du lịch
+            </br></br>
+            <input type="checkbox" name="research" value="research"/>Nghiên cứu
+            <input type="checkbox" name="business" value="business"/>Kinh doanh
+            </br>
+        </p>
+        
+        <hr>
+        <p style="text-align:center;">
+            <input type="submit" value="Đăng ký"/> <input type="reset" value="Xóa"/>
+        </p>
+        </p>
+        </form>
+    </br>
+
+    </body>
+</html>
