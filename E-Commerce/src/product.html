@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://www.w3schools.com/lib/w3.js"></script>
+    <title>Product</title>
+</head>
+<body>
+
+<p class="header" w3-include-html="menu.html"></p> 
+
+
+<div id="category">
+
+</div>
+
+
+
+<script>
+    var xhttp = new XMLHttpRequest();
+    var url = "../data/category.json";
+    
+    xhttp.onreadystatechange = function(){
+        if(this.readyState == 4 && this.status == 200){
+            var category = JSON.parse(this.responseText);
+            formatCategory(category);
+        }
+    }
+
+    xhttp.open('GET', url, true);
+    xhttp.send();
+
+    function formatCategory(arr){
+        var category ="<div class='row'>";
+        for(i=0; i<arr.length; i++){
+            category += "<div class='column'><a href='" + arr[i].url + "'><img src='" + arr[i].icon_url + "'><h2>" + arr[i].name + "</h2></a></div>" + arr[i].name + "</p>";
+            
+        }
+        category += "</div>";
+
+        document.getElementById("category").innerHTML = category;
+    }
+</script>
+
+<script>
+    w3.includeHTML();
+    </script>
+
+<style>
+    
+    .category {
+        margin-top: 50px;
+    }
+    
+
+    @media screen and (max-width: 800px) {
+
+    }
+</style>
+
+
+</body>
+</html>

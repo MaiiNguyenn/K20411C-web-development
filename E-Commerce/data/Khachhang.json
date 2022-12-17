@@ -1,0 +1,2337 @@
+﻿[
+  {
+    "IdJob": "Designer",
+    "Mieuta": "Là những con người có óc thẩm mỹ,sáng tạo,yêu thích đồ họa,tạo nên những sản phẩm có giá trị nghệ thuật cao",
+    "Hinh": "img/design.jpg",
+    "ThanhVien": [
+      {
+        "MaThanhVien": "Des-1",
+        "Ten": "Lê Thị Hằng",
+        "GioiTinh": "Nữ",
+        "ĐịaChi": "Quảng Trị",
+        "NgaySinh": "15/08/1989",
+        "CongTy": "Big Fort",
+        "Hinh": "img/h12.JPG"
+      },
+      {
+        "MaThanhVien": "Des-2",
+        "Ten": "Lê Bá Đạo",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Quảng Nam",
+        "NgaySinh": "11/04/1992",
+        "CongTy": "sacombank",
+        "Hinh": "img/h1.JPG"
+      },
+      {
+        "MaThanhVien": "Des-3",
+        "Ten": "Lê Thị Kim",
+        "GioiTinh": "Nữ",
+        "ĐịaChi": "Bình Định",
+        "NgaySinh": "15/08/1989",
+        "CongTy": "ABC",
+        "Hinh": "img/h43.JPG"
+      },
+      {
+        "MaThanhVien": "Des-4",
+        "Ten": "Đỗ Lê Duy",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Bình Định",
+        "NgaySinh": "17/02/1997",
+        "CongTy": "Google",
+        "Hinh": "img/h10.JPG"
+      },
+      {
+        "MaThanhVien": "Des-4",
+        "Ten": "Lý Tấn Hùng",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "22/12/1992",
+        "CongTy": "FPT",
+        "Hinh": "img/h11.JPG"
+      },
+      {
+        "MaThanhVien": "Des-5",
+        "Ten": "Trần Duy Thanh",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Phú Yên",
+        "NgaySinh": "15/08/1987",
+        "CongTy": "ĐH Kinh tế - Luật",
+        "Hinh": "img/h13.JPG"
+      },
+      {
+        "MaThanhVien": "Des-6",
+        "Ten": "Nguyễn Nam Sơn",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Quảng ngãi",
+        "NgaySinh": "15/08/1989",
+        "CongTy": "XYZ",
+        "Hinh": "img/h14.JPG"
+      },
+      {
+        "MaThanhVien": "Des-7",
+        "Ten": "Đỗ Lê TUyên",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1995",
+        "CongTy": "Google",
+        "Hinh": "img/h18.JPG"
+      },
+      {
+        "MaThanhVien": "Des-8",
+        "Ten": "Lý Tấn Dũng",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "18/08/1979",
+        "CongTy": "NHK Shopfittings",
+        "Hinh": "img/h21.JPG"
+      },
+      {
+        "MaThanhVien": "Des-9",
+        "Ten": "Trần Văn Tèo",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Phú Yên",
+        "NgaySinh": "15/08/1991",
+        "CongTy": "KitFE",
+        "Hinh": "img/h25.JPG"
+      },
+      {
+        "MaThanhVien": "Des-10",
+        "Ten": "Lê Văn Trường",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1985",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h28.JPG"
+      },
+      {
+        "MaThanhVien": "Des-11",
+        "Ten": "Lý Hoàng Long",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Quảng Trị",
+        "NgaySinh": "15/08/1987",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h27.JPG"
+      },
+      {
+        "MaThanhVien": "Des-12",
+        "Ten": "Lê Trí Trọng",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1991",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h39.JPG"
+      },
+      {
+        "MaThanhVien": "Des-13",
+        "Ten": "Lê Thị Hòa",
+        "GioiTinh": "Nữ",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1989",
+        "CongTy": "Big Fort",
+        "Hinh": "img/h37.JPG"
+      },
+      {
+        "MaThanhVien": "Des-13",
+        "Ten": "Nguyễn Bảo Khang",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Khánh Hòa",
+        "NgaySinh": "15/08/1988",
+        "CongTy": "KitFE",
+        "Hinh": "img/h41.JPG"
+      },
+      {
+        "MaThanhVien": "Des-14",
+        "Ten": "Lê Nam Sơn",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Quảng Bình",
+        "NgaySinh": "15/08/1990",
+        "CongTy": "Nguyễn Chí Linh",
+        "Hinh": "img/h5.JPG"
+      },
+      {
+        "MaThanhVien": "Des-15",
+        "Ten": "Nguyễn Huy Đức",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "12/08/1990",
+        "CongTy": "MCP",
+        "Hinh": "img/h49.JPG"
+      },
+      {
+        "MaThanhVien": "Des-16",
+        "Ten": "Nguyễn Quang Huy",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Quảng ngãi",
+        "NgaySinh": "12/08/1989",
+        "CongTy": "Customer Care",
+        "Hinh": "img/h55.JPG"
+      },
+      {
+        "MaThanhVien": "Des-17",
+        "Ten": "Nguyễn Thái Duy",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "12/08/1989",
+        "CongTy": "DHU",
+        "Hinh": "img/h54.JPG"
+      },
+      {
+        "MaThanhVien": "Des-18",
+        "Ten": "Nguyễn Thanh Tùng",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1989",
+        "CongTy": "XYZ",
+        "Hinh": "img/h57.JPG"
+      },
+      {
+        "MaThanhVien": "Des-19",
+        "Ten": "Lê Thị An",
+        "GioiTinh": "Nữ",
+        "ĐịaChi": "Quảng Trị",
+        "NgaySinh": "15/08/1989",
+        "CongTy": "Big Fort",
+        "Hinh": "img/h53.JPG"
+      },
+      {
+        "MaThanhVien": "Des-20",
+        "Ten": "Nguyễn Thị Thương",
+        "GioiTinh": "Nữ",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "02/08/1989",
+        "CongTy": "Big Fort",
+        "Hinh": "img/h42.JPG"
+      }
+    ]
+  },
+  {
+    "IdJob": "Director",
+    "Mieuta": "Là người điều hành công việc kinh doanh hàng ngày của công ty; chịu sự giám sát của Hội đồng quản trị và chịu trách nhiệm trước Hội đồng quản trị và trước pháp luật về việc thực hiện các quyền và nhiệm vụ được giao",
+    "Hinh": "img/GD.jpg",
+    "ThanhVien": [
+      {
+        "MaThanhVien": "Dre-1",
+        "Ten": "Trần Thanh Nam",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1991",
+        "CongTy": "KMS",
+        "Hinh": "img/h34.JPG"
+      },
+      {
+        "MaThanhVien": "Dre-2",
+        "Ten": "Lê Nam Đế",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/04/1992",
+        "CongTy": "sacombank",
+        "Hinh": "img/h26.JPG"
+      },
+      {
+        "MaThanhVien": "Dre-3",
+        "Ten": "Lê Thị Thanh",
+        "GioiTinh": "Nữ",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1982",
+        "CongTy": "ABC",
+        "Hinh": "img/h43.JPG"
+      },
+      {
+        "MaThanhVien": "Dre-4",
+        "Ten": "Đỗ Lê Huy",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Bình Định",
+        "NgaySinh": "17/02/1992",
+        "CongTy": "Always",
+        "Hinh": "img/h31.JPG"
+      },
+      {
+        "MaThanhVien": "Dre-4",
+        "Ten": "Lý Tấn Hải",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "22/12/1992",
+        "CongTy": "Điện Máy Xanh",
+        "Hinh": "img/h11.JPG"
+      },
+      {
+        "MaThanhVien": "Dre-5",
+        "Ten": "Trần Duy Hải",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hô Chí Minh",
+        "NgaySinh": "15/08/1987",
+        "CongTy": "PNJ",
+        "Hinh": "img/h13.JPG"
+      },
+      {
+        "MaThanhVien": "Dre-6",
+        "Ten": "Nguyễn Nam Hà",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1987",
+        "CongTy": "Viettel",
+        "Hinh": "img/h31.JPG"
+      },
+      {
+        "MaThanhVien": "Dre-7",
+        "Ten": "Đỗ Lê Nam",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1994",
+        "CongTy": "KitFE",
+        "Hinh": "img/h18.JPG"
+      },
+      {
+        "MaThanhVien": "Dre-8",
+        "Ten": "Lý Tấn Tân",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "18/08/1979",
+        "CongTy": "NHF Shopfittings",
+        "Hinh": "img/h21.JPG"
+      },
+      {
+        "MaThanhVien": "Dre-9",
+        "Ten": "Trần Văn Tí",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/09/1991",
+        "CongTy": "KitFE",
+        "Hinh": "img/h25.JPG"
+      },
+      {
+        "MaThanhVien": "Dre-10",
+        "Ten": "Lê Văn Trung",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1988",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h28.JPG"
+      },
+      {
+        "MaThanhVien": "Dre-11",
+        "Ten": "Lý Hoàng Thanh",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Quảng Trị",
+        "NgaySinh": "15/08/1982",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h27.JPG"
+      },
+      {
+        "MaThanhVien": "Dre-12",
+        "Ten": "Lê Trí Đại",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1991",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h39.JPG"
+      },
+      {
+        "MaThanhVien": "Dre-13",
+        "Ten": "Lý Thị Tuyết Hòa",
+        "GioiTinh": "Nữ",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1989",
+        "CongTy": "BFR",
+        "Hinh": "img/h37.JPG"
+      },
+      {
+        "MaThanhVien": "Dre-13",
+        "Ten": "Nguyễn Bảo Khánh",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1983",
+        "CongTy": "KitFE",
+        "Hinh": "img/h41.JPG"
+      },
+      {
+        "MaThanhVien": "Dre-14",
+        "Ten": "Lê Nam Long",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Quảng Bình",
+        "NgaySinh": "15/08/1990",
+        "CongTy": "Always",
+        "Hinh": "img/h5.JPG"
+      },
+      {
+        "MaThanhVien": "Dre-15",
+        "Ten": "Nguyễn Gia Đức",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "12/08/1990",
+        "CongTy": "MCP",
+        "Hinh": "img/h49.JPG"
+      },
+      {
+        "MaThanhVien": "Dre-16",
+        "Ten": "Nguyễn Quang Khải",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Quảng ngãi",
+        "NgaySinh": "12/08/1989",
+        "CongTy": "Customer Care",
+        "Hinh": "img/h55.JPG"
+      },
+      {
+        "MaThanhVien": "Dre-17",
+        "Ten": "Nguyễn Thái Hùng",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "12/08/1989",
+        "CongTy": "DHU",
+        "Hinh": "img/h54.JPG"
+      },
+      {
+        "MaThanhVien": "Dre-18",
+        "Ten": "Nguyễn Thanh Quý",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1989",
+        "CongTy": "XYZ",
+        "Hinh": "img/h57.JPG"
+      },
+      {
+        "MaThanhVien": "Dre-19",
+        "Ten": "Nguyễn Thị Kim Anh",
+        "GioiTinh": "Nữ",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1989",
+        "CongTy": "Big Fort",
+        "Hinh": "img/h53.JPG"
+      },
+      {
+        "MaThanhVien": "Dre-20",
+        "Ten": "Trần Thị ánh",
+        "GioiTinh": "Nữ",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "02/08/1985",
+        "CongTy": "Helium",
+        "Hinh": "img/h42.JPG"
+      }
+    ]
+  },
+  {
+    "IdJob": "Freelancer",
+    "Mieuta": " Là những người làm việc độc lập và tự do. Họ tự mình cung cấp những dịch vụ có thu phí mà không yêu cầu bất kì một mối quan hệ lâu dài với những chủ thuê mướn nào",
+    "\",": null,
+    "Hinh": "img/Fc.jpg",
+    "ThanhVien": [
+      {
+        "MaThanhVien": "Fre-1",
+        "Ten": "Trần Thanh Quang",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1990",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h64.JPG"
+      },
+      {
+        "MaThanhVien": "Fre-2",
+        "Ten": "Lê Nam Hải",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/04/1991",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h26.JPG"
+      },
+      {
+        "MaThanhVien": "Fre-3",
+        "Ten": "Lê Thị Thanh Nhi",
+        "GioiTinh": "Nữ",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1980",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h43.JPG"
+      },
+      {
+        "MaThanhVien": "Fre-4",
+        "Ten": "Nguyễn Hưu Cảnh",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "17/02/1990",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h31.JPG"
+      },
+      {
+        "MaThanhVien": "Fre-4",
+        "Ten": "Lý Thanh Hiệp",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "22/12/1992",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h11.JPG"
+      },
+      {
+        "MaThanhVien": "Fre-5",
+        "Ten": "Trần Ngọc Quốc",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hô Chí Minh",
+        "NgaySinh": "15/08/1988",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h13.JPG"
+      },
+      {
+        "MaThanhVien": "Fre-6",
+        "Ten": "Nguyễn Nam Việt",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1985",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h31.JPG"
+      },
+      {
+        "MaThanhVien": "Fre-7",
+        "Ten": "Đỗ NGọc Sơn",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1995",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h18.JPG"
+      },
+      {
+        "MaThanhVien": "Fre-8",
+        "Ten": "Lý Tấn Phùng",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "18/08/1979",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h21.JPG"
+      },
+      {
+        "MaThanhVien": "Fre-9",
+        "Ten": "Trần Văn Thiện",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/09/1991",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h25.JPG"
+      },
+      {
+        "MaThanhVien": "Fre-10",
+        "Ten": "Lê Văn Trọng",
+        "GioiTinh": "Nam",
+        "ĐịaChi": " Hồ Chí Minh",
+        "NgaySinh": "15/08/1988",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h28.JPG"
+      },
+      {
+        "MaThanhVien": "Fre-11",
+        "Ten": "Lý Hoàng Tuyền",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Quảng Trị",
+        "NgaySinh": "15/08/1982",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h27.JPG"
+      },
+      {
+        "MaThanhVien": "Fre-12",
+        "Ten": "Lê Trí Đạt",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1991",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h39.JPG"
+      },
+      {
+        "MaThanhVien": "Fre-13",
+        "Ten": "Lý Thị Tuyết Ngân",
+        "GioiTinh": "Nữ",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1989",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h37.JPG"
+      },
+      {
+        "MaThanhVien": "Fre-13",
+        "Ten": "Nguyễn Bảo Hiếu",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1988",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h41.JPG"
+      },
+      {
+        "MaThanhVien": "Fre-14",
+        "Ten": "Nguyễn Trọng Trí",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1990",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h5.JPG"
+      },
+      {
+        "MaThanhVien": "Fre-15",
+        "Ten": "Nguyễn Hữu Đức",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "12/08/1990",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h49.JPG"
+      },
+      {
+        "MaThanhVien": "Fre-16",
+        "Ten": "Nguyễn Quang Nam",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "12/08/1989",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h55.JPG"
+      },
+      {
+        "MaThanhVien": "Fre-17",
+        "Ten": "Nguyễn Thái Học",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "12/08/1991",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h54.JPG"
+      },
+      {
+        "MaThanhVien": "Fre-18",
+        "Ten": "Nguyễn Thanh Huy",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1990",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h57.JPG"
+      },
+      {
+        "MaThanhVien": "Fre-19",
+        "Ten": "Nguyễn Thị Ngọc Liên",
+        "GioiTinh": "Nữ",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1988",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h53.JPG"
+      },
+      {
+        "MaThanhVien": "Fre-20",
+        "Ten": "Vũ Thúy Hằng",
+        "GioiTinh": "Nữ",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "02/08/1987",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h42.JPG"
+      }
+    ]
+  },
+  {
+    "IdJob": "Organizer",
+    "Mieuta": "Công việc của họ bao gồm từ khâu sáng tạo trong chủ đề cho đến lựa chọn địa điểm và chuẩn bị về hậu cần cho các sự kiện của công ty hay tổ chức",
+    "Hinh": "img/Or.jpg",
+    "ThanhVien": [
+      {
+        "MaThanhVien": "Org-1",
+        "Ten": "Trần Thanh Dũng",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1991",
+        "CongTy": "KMS",
+        "Hinh": "img/h20.JPG"
+      },
+      {
+        "MaThanhVien": "Org-2",
+        "Ten": "Lê Nam Nguyên",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/04/1992",
+        "CongTy": "sacombank",
+        "Hinh": "img/h26.JPG"
+      },
+      {
+        "MaThanhVien": "Org-3",
+        "Ten": "Lê Thị Thúy",
+        "GioiTinh": "Nữ",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1982",
+        "CongTy": "ABC",
+        "Hinh": "img/h43.JPG"
+      },
+      {
+        "MaThanhVien": "Org-4",
+        "Ten": "Đỗ Lê Hóa",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Bình Định",
+        "NgaySinh": "17/02/1992",
+        "CongTy": "Always",
+        "Hinh": "img/h31.JPG"
+      },
+      {
+        "MaThanhVien": "Org-4",
+        "Ten": "Trần Tấn Thịnh",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "22/12/1992",
+        "CongTy": "Điện Máy Xanh",
+        "Hinh": "img/h11.JPG"
+      },
+      {
+        "MaThanhVien": "Org-5",
+        "Ten": "Trần Duy Tiến",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hô Chí Minh",
+        "NgaySinh": "15/08/1987",
+        "CongTy": "PNJ",
+        "Hinh": "img/h13.JPG"
+      },
+      {
+        "MaThanhVien": "Org-6",
+        "Ten": "Nguyễn Nam Phong",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1987",
+        "CongTy": "Viettel",
+        "Hinh": "img/h31.JPG"
+      },
+      {
+        "MaThanhVien": "Org-7",
+        "Ten": "Đỗ Lê Tài",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1994",
+        "CongTy": "KitFE",
+        "Hinh": "img/h18.JPG"
+      },
+      {
+        "MaThanhVien": "Org-8",
+        "Ten": "Lý Tấn Hiển",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "18/08/1979",
+        "CongTy": "NHF Shopfittings",
+        "Hinh": "img/h21.JPG"
+      },
+      {
+        "MaThanhVien": "Org-9",
+        "Ten": "Trần Văn Thương",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/09/1991",
+        "CongTy": "KitFE",
+        "Hinh": "img/h25.JPG"
+      },
+      {
+        "MaThanhVien": "Org-10",
+        "Ten": "Lê Văn Thành",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1988",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h28.JPG"
+      },
+      {
+        "MaThanhVien": "Org-11",
+        "Ten": "Lý Hoàng Nhất",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Quảng Trị",
+        "NgaySinh": "15/08/1982",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h27.JPG"
+      },
+      {
+        "MaThanhVien": "Org-12",
+        "Ten": "Lê Trí Nhị",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1991",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h39.JPG"
+      },
+      {
+        "MaThanhVien": "Org-13",
+        "Ten": "Phan Hải Nhi",
+        "GioiTinh": "Nữ",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1989",
+        "CongTy": "BFR",
+        "Hinh": "img/h37.JPG"
+      },
+      {
+        "MaThanhVien": "Org-13",
+        "Ten": "Nguyễn Bảo Hoan",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1983",
+        "CongTy": "KitFE",
+        "Hinh": "img/h41.JPG"
+      },
+      {
+        "MaThanhVien": "Org-14",
+        "Ten": "Lê Nam Đức",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Quảng Bình",
+        "NgaySinh": "15/08/1990",
+        "CongTy": "Always",
+        "Hinh": "img/h5.JPG"
+      },
+      {
+        "MaThanhVien": "Org-15",
+        "Ten": "Nguyễn Gia Thuận",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "12/08/1990",
+        "CongTy": "MCP",
+        "Hinh": "img/h49.JPG"
+      },
+      {
+        "MaThanhVien": "Org-16",
+        "Ten": "Nguyễn Quang Diệu",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Quảng ngãi",
+        "NgaySinh": "12/08/1989",
+        "CongTy": "Customer Care",
+        "Hinh": "img/h55.JPG"
+      },
+      {
+        "MaThanhVien": "Org-17",
+        "Ten": "Nguyễn Văn Minh",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "12/08/1989",
+        "CongTy": "DHU",
+        "Hinh": "img/h54.JPG"
+      },
+      {
+        "MaThanhVien": "Org-18",
+        "Ten": "Nguyễn Tiến Bộ",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1989",
+        "CongTy": "XYZ",
+        "Hinh": "img/h57.JPG"
+      },
+      {
+        "MaThanhVien": "Org-19",
+        "Ten": "Nguyễn Thị Tổ Quốc",
+        "GioiTinh": "Nữ",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1989",
+        "CongTy": "Big Fort",
+        "Hinh": "img/h53.JPG"
+      },
+      {
+        "MaThanhVien": "Org-20",
+        "Ten": "Trần Thị Việt Nam",
+        "GioiTinh": "Nữ",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "02/08/1985",
+        "CongTy": "Helium",
+        "Hinh": "img/h42.JPG"
+      }
+    ]
+  },
+  {
+    "IdJob": "ProjectManager",
+    "Mieuta": "Chính là những người giữ vị trí chủ chốt trong quá trình thực hiện dự án. PrM quyết định việc thành công hay thất bại của dự án, nắm giữ đến 50% số phận của một dự án. Nếu coi tổ chức dự án như cơ thể của một con người thì PrM chính là hoạt động của bộ não",
+    "Hinh": "img/Pr.jpg",
+    "ThanhVien": [
+      {
+        "MaThanhVien": "PrM-1",
+        "Ten": "Trần Hữu Điềi",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1990",
+        "CongTy": "KMS",
+        "Hinh": "img/h24.JPG"
+      },
+      {
+        "MaThanhVien": "PrM-2",
+        "Ten": "Lê Nam Mẫn",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/04/1992",
+        "CongTy": "sacombank",
+        "Hinh": "img/h26.JPG"
+      },
+      {
+        "MaThanhVien": "PrM-3",
+        "Ten": "Nguyễn Thị Nga",
+        "GioiTinh": "Nữ",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1987",
+        "CongTy": "ABC",
+        "Hinh": "img/h43.JPG"
+      },
+      {
+        "MaThanhVien": "PrM-4",
+        "Ten": "Đỗ Lê Hạ",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "17/02/1991",
+        "CongTy": "Always",
+        "Hinh": "img/h31.JPG"
+      },
+      {
+        "MaThanhVien": "PrM-4",
+        "Ten": "Trần Thanh Thịnh",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "22/12/1992",
+        "CongTy": "SamSung",
+        "Hinh": "img/h11.JPG"
+      },
+      {
+        "MaThanhVien": "PrM-5",
+        "Ten": "Trần Duy Thương",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hô Chí Minh",
+        "NgaySinh": "15/08/1987",
+        "CongTy": "PNJ",
+        "Hinh": "img/h13.JPG"
+      },
+      {
+        "MaThanhVien": "PrM-6",
+        "Ten": "Nguyễn Nam Tuấn",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1987",
+        "CongTy": "ANTS",
+        "Hinh": "img/h31.JPG"
+      },
+      {
+        "MaThanhVien": "PrM-7",
+        "Ten": "Trần Văn Hòa",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1990",
+        "CongTy": "KitFE",
+        "Hinh": "img/h18.JPG"
+      },
+      {
+        "MaThanhVien": "PrM-8",
+        "Ten": "Phạm Tấn Thuận",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "18/08/1979",
+        "CongTy": "NHF Shopfittings",
+        "Hinh": "img/h21.JPG"
+      },
+      {
+        "MaThanhVien": "PrM-9",
+        "Ten": "Trần Văn Khương",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/09/1991",
+        "CongTy": "KitFE",
+        "Hinh": "img/h25.JPG"
+      },
+      {
+        "MaThanhVien": "PrM-10",
+        "Ten": "Lê Văn Bá Đạo",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1988",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h28.JPG"
+      },
+      {
+        "MaThanhVien": "PrM-11",
+        "Ten": "Lý Đại Ca",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Quảng Trị",
+        "NgaySinh": "15/08/1982",
+        "CongTy": "Freelancer",
+        "Hinh": "img/h27.JPG"
+      },
+      {
+        "MaThanhVien": "PrM-12",
+        "Ten": "Lê  Nhị Ca",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1991",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h39.JPG"
+      },
+      {
+        "MaThanhVien": "PrM-13",
+        "Ten": "Phan Khánh Linh",
+        "GioiTinh": "Nữ",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1989",
+        "CongTy": "BFR",
+        "Hinh": "img/h37.JPG"
+      },
+      {
+        "MaThanhVien": "PrM-13",
+        "Ten": "Nguyễn Bảo Tuấn",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1983",
+        "CongTy": "KitFE",
+        "Hinh": "img/h41.JPG"
+      },
+      {
+        "MaThanhVien": "PrM-14",
+        "Ten": "Lê Hải Đức",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Quảng Bình",
+        "NgaySinh": "15/08/1990",
+        "CongTy": "Always",
+        "Hinh": "img/h5.JPG"
+      },
+      {
+        "MaThanhVien": "PrM-15",
+        "Ten": "Nguyễn Tuấn Thuận",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "12/08/1990",
+        "CongTy": "MCP",
+        "Hinh": "img/h49.JPG"
+      },
+      {
+        "MaThanhVien": "PrM-16",
+        "Ten": "Nguyễn Quang Việt",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Quảng ngãi",
+        "NgaySinh": "12/08/1989",
+        "CongTy": "Customer Care",
+        "Hinh": "img/h55.JPG"
+      },
+      {
+        "MaThanhVien": "PrM-17",
+        "Ten": "Nguyễn Văn Phát Triển",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí Minh",
+        "NgaySinh": "12/08/1989",
+        "CongTy": "DHU",
+        "Hinh": "img/h54.JPG"
+      },
+      {
+        "MaThanhVien": "PrM-18",
+        "Ten": "Nguyễn Nam Lào",
+        "GioiTinh": "Nam",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1989",
+        "CongTy": "XYZ",
+        "Hinh": "img/h57.JPG"
+      },
+      {
+        "MaThanhVien": "PrM-19",
+        "Ten": "Nguyễn Thị Huỳnh Như",
+        "GioiTinh": "Nữ",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "15/08/1989",
+        "CongTy": "Big Fort",
+        "Hinh": "img/h53.JPG"
+      },
+      {
+        "MaThanhVien": "PrM-20",
+        "Ten": "Trần Thị Bảo Vân",
+        "GioiTinh": "Nữ",
+        "ĐịaChi": "Hồ Chí MInh",
+        "NgaySinh": "02/08/1985",
+        "CongTy": "Helium",
+        "Hinh": "img/h42.JPG"
+      }
+    ]
+  },
+  {
+    "IdJob": "Accountant",
+    "Mieuta": "Kế toán là một ngành nghề phổ biến và có tính ổn định cao, có vai trò quan trọng không thể thiếu trong bất kỳ một tổ chức, doanh nghiệp nào.",
+    "Hinh": "img/KeToan.jpg",
+    "ThanhVien": [
+      {
+        "MaThanhVien": "Acc-1",
+        "Ten": "Brenn Hill",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1984",
+        "CongTy": "Kloudery",
+        "Hinh": "img/h1.JPG"
+      },
+      {
+        "MaThanhVien": "Acc-2",
+        "Ten": "Bùi Bá Long",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minhm",
+        "NgaySinh": "10/08/1986",
+        "CongTy": "Decior",
+        "Hinh": "img/h2.JPG"
+      },
+      {
+        "MaThanhVien": "Acc-3",
+        "Ten": "Dương Văn Tiến",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/06/1990",
+        "CongTy": "Converachi",
+        "Hinh": "img/h3.JPG"
+      },
+      {
+        "MaThanhVien": "Acc-4",
+        "Ten": "Đặng Thanh Hà",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/06/1996",
+        "CongTy": "Magnolia Travel",
+        "Hinh": "img/h4.JPG"
+      },
+      {
+        "MaThanhVien": "Acc-5",
+        "Ten": "Đỗ Quang Đạt",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/09/1986",
+        "CongTy": "Snapplan",
+        "Hinh": "img/h5.JPG"
+      },
+      {
+        "MaThanhVien": "Acc-6",
+        "Ten": "Đỗ Quyết Tiến",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/12/1986",
+        "CongTy": "Kloudery",
+        "Hinh": "img/h6.JPG"
+      },
+      {
+        "MaThanhVien": "Acc-7",
+        "Ten": "Đoàn Phương Hoa",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/2/1989",
+        "CongTy": "NHK Shopfittings",
+        "Hinh": "img/h7.JPG"
+      },
+      {
+        "MaThanhVien": "Acc-8",
+        "Ten": "Giáp Văn Đại",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/2/1989",
+        "CongTy": "PFM",
+        "Hinh": "img/h8.JPG"
+      },
+      {
+        "MaThanhVien": "Acc-9",
+        "Ten": "Hoàng Anh Việt",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/4/1993",
+        "CongTy": "Decior",
+        "Hinh": "img/h9.JPG"
+      },
+      {
+        "MaThanhVien": "Acc-10",
+        "Ten": "Jacob Gadikian",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/9/1993",
+        "CongTy": "Kloudery",
+        "Hinh": "img/h10.JPG"
+      },
+      {
+        "MaThanhVien": "Acc-11",
+        "Ten": "Lâm Thái Trung Hiếu",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/9/1993",
+        "CongTy": "KitFE",
+        "Hinh": "img/h11.JPG"
+      },
+      {
+        "MaThanhVien": "Acc-12",
+        "Ten": "Lê Phương Uyên",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "13/9/1994",
+        "CongTy": "S-Vietnam",
+        "Hinh": "img/h12.JPG"
+      },
+      {
+        "MaThanhVien": "Acc-13",
+        "Ten": "Lê Trí Trọng",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "19/9/1994",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h13.JPG"
+      },
+      {
+        "MaThanhVien": "Acc-14",
+        "Ten": "Lê Trung Kiên",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "21/9/1985",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h14.JPG"
+      },
+      {
+        "MaThanhVien": "Acc-15",
+        "Ten": "Lê Văn Trường",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "21/6/1985",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h15.JPG"
+      },
+      {
+        "MaThanhVien": "Acc-16",
+        "Ten": "Lý Hoàng Long",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/6/1985",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h16.JPG"
+      },
+      {
+        "MaThanhVien": "Acc-17",
+        "Ten": "Nguyễn Anh Trung",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/8/1985",
+        "CongTy": "Converachi",
+        "Hinh": "img/h17.JPG"
+      },
+      {
+        "MaThanhVien": "Acc-18",
+        "Ten": "Nguyễn Anh Vũ",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/8/1985",
+        "CongTy": "KitFE",
+        "Hinh": "img/h18.JPG"
+      },
+      {
+        "MaThanhVien": "Acc-19",
+        "Ten": "Nguyễn Bảo Khang",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "17/8/1984",
+        "CongTy": "KitFE",
+        "Hinh": "img/h19.JPG"
+      },
+      {
+        "MaThanhVien": "Acc-20",
+        "Ten": "Nguyễn Anh Khang",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "20/8/1986",
+        "CongTy": "KitFE",
+        "Hinh": "img/h20.JPG"
+      }
+    ]
+  },
+  {
+    "IdJob": "Developer",
+    "Mieuta": "Một developer chính hiệu thường có một cuộc sống khá là phong phú và màu sắc. Bởi họ là những con người viết nên những ứng dụng đầy màu sắc và mang lại những tiện ích cho bạn!",
+    "Hinh": "img/Developer.jpg",
+    "ThanhVien": [
+      {
+        "MaThanhVien": "Dev-1",
+        "Ten": "Nguyễn Chí Linh",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1984",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h21.JPG"
+      },
+      {
+        "MaThanhVien": "Dev-2",
+        "Ten": "Nguyễn Duy Anh",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/08/1986",
+        "CongTy": "Decior",
+        "Hinh": "img/h22.JPG"
+      },
+      {
+        "MaThanhVien": "Dev-3",
+        "Ten": "Nguyễn Cường",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/06/1990",
+        "CongTy": "Converachi",
+        "Hinh": "img/h23.JPG"
+      },
+      {
+        "MaThanhVien": "Dev-4",
+        "Ten": "Nguyễn Đức Cường",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/06/1996",
+        "CongTy": "Magnolia Travel",
+        "Hinh": "img/h24.JPG"
+      },
+      {
+        "MaThanhVien": "Dev-5",
+        "Ten": "Nguyễn Đức Phương",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/09/1986",
+        "CongTy": "Snapplan",
+        "Hinh": "img/h25.JPG"
+      },
+      {
+        "MaThanhVien": "Dev-6",
+        "Ten": "Nguyễn Đức Trường",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/12/1986",
+        "CongTy": "Kloudery",
+        "Hinh": "img/h26.JPG"
+      },
+      {
+        "MaThanhVien": "Dev-7",
+        "Ten": "Nguyễn Đức Tú",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/2/1989",
+        "CongTy": "NHK Shopfittings",
+        "Hinh": "img/h27.JPG"
+      },
+      {
+        "MaThanhVien": "Dev-8",
+        "Ten": "Nguyễn Hoàng Tú",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/2/1989",
+        "CongTy": "PFM",
+        "Hinh": "img/h28.JPG"
+      },
+      {
+        "MaThanhVien": "Dev-9",
+        "Ten": "Nguyễn Hữu Thành",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/4/1993",
+        "CongTy": "Decior",
+        "Hinh": "img/h29.JPG"
+      },
+      {
+        "MaThanhVien": "Dev-10",
+        "Ten": "Nguyễn Huy Đức",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/9/1993",
+        "CongTy": "Kloudery",
+        "Hinh": "img/h30.JPG"
+      },
+      {
+        "MaThanhVien": "Dev-11",
+        "Ten": "Nguyễn Mạnh Đức",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/9/1993",
+        "CongTy": "KitFE",
+        "Hinh": "img/h31.JPG"
+      },
+      {
+        "MaThanhVien": "Dev-12",
+        "Ten": "Nguyễn Ngọc Huyền",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "13/9/1994",
+        "CongTy": "S-Vietnam",
+        "Hinh": "img/h32.JPG"
+      },
+      {
+        "MaThanhVien": "Dev-13",
+        "Ten": "Nguyễn Ngọc Linh",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "19/9/1994",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h33.JPG"
+      },
+      {
+        "MaThanhVien": "Dev-14",
+        "Ten": "Nguyễn Phúc Cường",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "21/9/1985",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h34.JPG"
+      },
+      {
+        "MaThanhVien": "Dev-15",
+        "Ten": "Nguyễn Quang Huy",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "21/6/1985",
+        "CongTy": "DHU",
+        "Hinh": "img/h35.JPG"
+      },
+      {
+        "MaThanhVien": "Dev-16",
+        "Ten": "Nguyễn Quang Huy",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/6/1985",
+        "CongTy": "Helium",
+        "Hinh": "img/h36.JPG"
+      },
+      {
+        "MaThanhVien": "Dev-17",
+        "Ten": "Nguyễn Quỳnh Liên",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/8/1985",
+        "CongTy": "Converachi",
+        "Hinh": "img/h37.JPG"
+      },
+      {
+        "MaThanhVien": "Dev-18",
+        "Ten": "Nguyễn Tấn Thái",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/8/1985",
+        "CongTy": "DHU",
+        "Hinh": "img/h38.JPG"
+      },
+      {
+        "MaThanhVien": "Dev-19",
+        "Ten": "Nguyễn Thái Duy",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "17/8/1984",
+        "CongTy": "Helium",
+        "Hinh": "img/h39.JPG"
+      },
+      {
+        "MaThanhVien": "Dev-20",
+        "Ten": "Nguyễn Thanh Thúy",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "20/8/1986",
+        "CongTy": "DHU",
+        "Hinh": "img/h40.JPG"
+      }
+    ]
+  },
+  {
+    "IdJob": "Founder",
+    "Mieuta": "Một Founder tài năng chính là điểm mấu chốt đưa những dự án Startup đi tới thành công chính vì thế tầm quan trọng của vị trí này là số một. ",
+    "Hinh": "img/Founder.png",
+    "ThanhVien": [
+      {
+        "MaThanhVien": "Fou-1",
+        "Ten": "Nguyễn Thanh Tùng",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1984",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h51.JPG"
+      },
+      {
+        "MaThanhVien": "Fou-2",
+        "Ten": "Nguyễn Thông Anh",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/08/1986",
+        "CongTy": "Decior",
+        "Hinh": "img/h52.JPG"
+      },
+      {
+        "MaThanhVien": "Fou-3",
+        "Ten": "Nguyễn Thị Hồng Nhung",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/06/1990",
+        "CongTy": "Converachi",
+        "Hinh": "img/h53.JPG"
+      },
+      {
+        "MaThanhVien": "Fou-4",
+        "Ten": "Nguyễn Đức Cường",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/06/1996",
+        "CongTy": "Magnolia Travel",
+        "Hinh": "img/h54.JPG"
+      },
+      {
+        "MaThanhVien": "Fou-5",
+        "Ten": "Nguyễn Ngọc Anh",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/09/1986",
+        "CongTy": "Snapplan",
+        "Hinh": "img/h55.JPG"
+      },
+      {
+        "MaThanhVien": "Fou-6",
+        "Ten": "Nguyễn Thương Tín",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/12/1986",
+        "CongTy": "Kloudery",
+        "Hinh": "img/h56.JPG"
+      },
+      {
+        "MaThanhVien": "Fou-7",
+        "Ten": "Nguyễn Văn Hiển",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/2/1989",
+        "CongTy": "NHK Shopfittings",
+        "Hinh": "img/h57.JPG"
+      },
+      {
+        "MaThanhVien": "Fou-8",
+        "Ten": "Nguyễn Thị Quang",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/2/1989",
+        "CongTy": "PFM",
+        "Hinh": "img/h58.JPG"
+      },
+      {
+        "MaThanhVien": "Fou-9",
+        "Ten": "Nguyễn Hữu Thành",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/4/1993",
+        "CongTy": "Decior",
+        "Hinh": "img/h59.JPG"
+      },
+      {
+        "MaThanhVien": "Fou-10",
+        "Ten": "Nguyễn Văn Trường",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/9/1993",
+        "CongTy": "Kloudery",
+        "Hinh": "img/h60.JPG"
+      },
+      {
+        "MaThanhVien": "Fou-11",
+        "Ten": "Nguyễn Việt Thắng",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/9/1993",
+        "CongTy": "KitFE",
+        "Hinh": "img/h61.JPG"
+      },
+      {
+        "MaThanhVien": "Fou-12",
+        "Ten": "Phạm Gia Cường",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "13/9/1994",
+        "CongTy": "S-Vietnam",
+        "Hinh": "img/h62.JPG"
+      },
+      {
+        "MaThanhVien": "Fou-13",
+        "Ten": "Phạm Hùng Thịnh",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "19/9/1994",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h63.JPG"
+      },
+      {
+        "MaThanhVien": "Fou-14",
+        "Ten": "Phạm Ngọc Thanh",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "21/9/1985",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h64.JPG"
+      },
+      {
+        "MaThanhVien": "Fou-15",
+        "Ten": "Phan Minh Trường",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "21/6/1985",
+        "CongTy": "DHU",
+        "Hinh": "img/h65.JPG"
+      },
+      {
+        "MaThanhVien": "Fou-16",
+        "Ten": "Phí Vĩnh Quý",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/6/1985",
+        "CongTy": "Helium",
+        "Hinh": "img/h66.JPG"
+      },
+      {
+        "MaThanhVien": "Fou-17",
+        "Ten": "Tạ Phước Hải",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/8/1985",
+        "CongTy": "Converachi",
+        "Hinh": "img/h67.JPG"
+      },
+      {
+        "MaThanhVien": "Fou-18",
+        "Ten": "Tăng Hồng Quân",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/8/1985",
+        "CongTy": "DHU",
+        "Hinh": "img/h68.JPG"
+      },
+      {
+        "MaThanhVien": "Fou-19",
+        "Ten": "Tạ Thị Hồng",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "17/8/1984",
+        "CongTy": "Helium",
+        "Hinh": "img/h69.JPG"
+      },
+      {
+        "MaThanhVien": "Fou-20",
+        "Ten": "Tăng Xuân Trường",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "20/8/1986",
+        "CongTy": "DHU",
+        "Hinh": "img/h60.JPG"
+      }
+    ]
+  },
+  {
+    "IdJob": "Marketing",
+    "Mieuta": "Trong thành công của mỗi doanh nghiệp, có rất nhiều yếu tố, nhưng không thể không kể tới vai trò của những chuyên gia marketing bởi marketing chính là chiến lược giúp doanh nghiệp thắng thế trong cuộc chiến giành chỗ đứng trong tâm trí khách hàng.",
+    "Hinh": "img/Marketing.JPG",
+    "ThanhVien": [
+      {
+        "MaThanhVien": "Mar-1",
+        "Ten": "Tạ Phước Hải",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1984",
+        "CongTy": "Kloudery",
+        "Hinh": "img/h1.JPG"
+      },
+      {
+        "MaThanhVien": "Mar-2",
+        "Ten": "Võ Ngọc Quí",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "10/08/1986",
+        "CongTy": "Decior",
+        "Hinh": "img/h2.JPG"
+      },
+      {
+        "MaThanhVien": "Mar-3",
+        "Ten": "Trương Tuấn Dũng",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "10/06/1990",
+        "CongTy": "Converachi",
+        "Hinh": "img/h3.JPG"
+      },
+      {
+        "MaThanhVien": "Mar-4",
+        "Ten": "Đặng Thị Hà",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "11/06/1996",
+        "CongTy": "Magnolia Travel",
+        "Hinh": "img/h4.JPG"
+      },
+      {
+        "MaThanhVien": "Mar-5",
+        "Ten": "Trần Quang Đạt",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "11/09/1986",
+        "CongTy": "Snapplan",
+        "Hinh": "img/h5.JPG"
+      },
+      {
+        "MaThanhVien": "Mar-6",
+        "Ten": "Đỗ Quyết Hải",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "11/12/1986",
+        "CongTy": "Kloudery",
+        "Hinh": "img/h6.JPG"
+      },
+      {
+        "MaThanhVien": "Mar-7",
+        "Ten": "Đoàn Phương Chi",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "15/2/1989",
+        "CongTy": "NHK Shopfittings",
+        "Hinh": "img/h7.JPG"
+      },
+      {
+        "MaThanhVien": "Mar-8",
+        "Ten": "Lê Văn Đại",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "10/2/1989",
+        "CongTy": "PFM",
+        "Hinh": "img/h8.JPG"
+      },
+      {
+        "MaThanhVien": "Mar-9",
+        "Ten": "Hoàng Việt",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "10/4/1993",
+        "CongTy": "Decior",
+        "Hinh": "img/h9.JPG"
+      },
+      {
+        "MaThanhVien": "Mar-10",
+        "Ten": "Haley Gadin",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "10/9/1993",
+        "CongTy": "Kloudery",
+        "Hinh": "img/h10.JPG"
+      },
+      {
+        "MaThanhVien": "Mar-11",
+        "Ten": "Lý Thái Hiếu",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "15/9/1993",
+        "CongTy": "KitFE",
+        "Hinh": "img/h11.JPG"
+      },
+      {
+        "MaThanhVien": "Mar-12",
+        "Ten": "Nguyễn Hoàng Phương Uyên",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "13/9/1994",
+        "CongTy": "S-Vietnam",
+        "Hinh": "img/h12.JPG"
+      },
+      {
+        "MaThanhVien": "Mar-13",
+        "Ten": "Lê Bá Trọng",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "19/9/1994",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h13.JPG"
+      },
+      {
+        "MaThanhVien": "Mar-14",
+        "Ten": "Lê Trung Hậu",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "21/9/1985",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h14.JPG"
+      },
+      {
+        "MaThanhVien": "Mar-15",
+        "Ten": "Lê Văn Hà",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "21/6/1985",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h15.JPG"
+      },
+      {
+        "MaThanhVien": "Mar-16",
+        "Ten": "Lý Hải Long",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "11/6/1985",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h16.JPG"
+      },
+      {
+        "MaThanhVien": "Mar-17",
+        "Ten": "Nguyễn Trung",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "11/8/1985",
+        "CongTy": "Converachi",
+        "Hinh": "img/h17.JPG"
+      },
+      {
+        "MaThanhVien": "Mar-18",
+        "Ten": "Nguyễn Anh Quân",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "15/8/1985",
+        "CongTy": "KitFE",
+        "Hinh": "img/h18.JPG"
+      },
+      {
+        "MaThanhVien": "Mar-19",
+        "Ten": "Nguyễn Bảo",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "17/8/1984",
+        "CongTy": "KitFE",
+        "Hinh": "img/h19.JPG"
+      },
+      {
+        "MaThanhVien": "Mar-20",
+        "Ten": "Nguyễn An Khang",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "20/8/1986",
+        "CongTy": "KitFE",
+        "Hinh": "img/h20.JPG"
+      }
+    ]
+  },
+  {
+    "IdJob": "Producer",
+    "Mieuta": "Producer hay còn gọi là một nhà sản xuất âm nhạc là người làm ra một album và cũng là người chịu trách nhiệm chính cho các sản phẩm âm nhạc đó. ",
+    "Hinh": "img/Producer.jpg",
+    "ThanhVien": [
+      {
+        "MaThanhVien": "Pro-1",
+        "Ten": "Nguyễn Chí Trung",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1984",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h21.JPG"
+      },
+      {
+        "MaThanhVien": "Pro-2",
+        "Ten": "Nguyễn Thái Anh",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/08/1986",
+        "CongTy": "Decior",
+        "Hinh": "img/h22.JPG"
+      },
+      {
+        "MaThanhVien": "Pro-3",
+        "Ten": "Nguyễn Thành An",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/06/1990",
+        "CongTy": "Converachi",
+        "Hinh": "img/h23.JPG"
+      },
+      {
+        "MaThanhVien": "Pro-4",
+        "Ten": "Nguyễn Phú Trọng",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/06/1996",
+        "CongTy": "Magnolia Travel",
+        "Hinh": "img/h24.JPG"
+      },
+      {
+        "MaThanhVien": "Pro-5",
+        "Ten": "Lê Anh Đức Phương",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/09/1986",
+        "CongTy": "Snapplan",
+        "Hinh": "img/h25.JPG"
+      },
+      {
+        "MaThanhVien": "Pro-6",
+        "Ten": "Nguyễn Cao Trường",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/12/1986",
+        "CongTy": "Kloudery",
+        "Hinh": "img/h26.JPG"
+      },
+      {
+        "MaThanhVien": "Pro-7",
+        "Ten": "Nguyễn Đức Trọng",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/2/1989",
+        "CongTy": "NHK Shopfittings",
+        "Hinh": "img/h27.JPG"
+      },
+      {
+        "MaThanhVien": "Pro-8",
+        "Ten": "Nguyễn Hoàng Anh",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/2/1989",
+        "CongTy": "PFM",
+        "Hinh": "img/h28.JPG"
+      },
+      {
+        "MaThanhVien": "Pro-9",
+        "Ten": "Lê Hữu Chí",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/4/1993",
+        "CongTy": "Decior",
+        "Hinh": "img/h29.JPG"
+      },
+      {
+        "MaThanhVien": "Pro-10",
+        "Ten": "Nguyễn Huy Hiếu",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/9/1993",
+        "CongTy": "Kloudery",
+        "Hinh": "img/h30.JPG"
+      },
+      {
+        "MaThanhVien": "Pro-11",
+        "Ten": "Nguyễn Mạnh Cường",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/9/1993",
+        "CongTy": "KitFE",
+        "Hinh": "img/h31.JPG"
+      },
+      {
+        "MaThanhVien": "Pro-12",
+        "Ten": "Nguyễn Thanh Huyền",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "13/9/1994",
+        "CongTy": "S-Vietnam",
+        "Hinh": "img/h32.JPG"
+      },
+      {
+        "MaThanhVien": "Pro-13",
+        "Ten": "Nguyễn Ngọc Nữ",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "19/9/1994",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h33.JPG"
+      },
+      {
+        "MaThanhVien": "Pro-14",
+        "Ten": "Nguyễn Phúc Đạt",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "21/9/1985",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h34.JPG"
+      },
+      {
+        "MaThanhVien": "Pro-15",
+        "Ten": "Nguyễn Trần Quang Huy",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "21/6/1985",
+        "CongTy": "DHU",
+        "Hinh": "img/h35.JPG"
+      },
+      {
+        "MaThanhVien": "Pro-16",
+        "Ten": "Trần Hải Huy",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/6/1985",
+        "CongTy": "Helium",
+        "Hinh": "img/h36.JPG"
+      },
+      {
+        "MaThanhVien": "Pro-17",
+        "Ten": "Nguyễn Quỳnh Chi",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/8/1985",
+        "CongTy": "Converachi",
+        "Hinh": "img/h37.JPG"
+      },
+      {
+        "MaThanhVien": "Pro-18",
+        "Ten": "Nguyễn Tấn Phát",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/8/1985",
+        "CongTy": "DHU",
+        "Hinh": "img/h38.JPG"
+      },
+      {
+        "MaThanhVien": "Pro-19",
+        "Ten": "Nguyễn Thái Bảo",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "17/8/1984",
+        "CongTy": "Helium",
+        "Hinh": "img/h39.JPG"
+      },
+      {
+        "MaThanhVien": "Pro-20",
+        "Ten": "Nguyễn Thúy",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "20/8/1986",
+        "CongTy": "DHU",
+        "Hinh": "img/h40.JPG"
+      }
+    ]
+  },
+  {
+    "IdJob": "Sales",
+    "Mieuta": "Trong bán hàng hoặc kinh doanh, Sale là một bộ phận cực kì quan trọng trong bất kì doanh nghiệp hay bất kì hoạt động kinh doanh nào.",
+    "Hinh": "img/Sales.jpg",
+    "ThanhVien": [
+      {
+        "MaThanhVien": "Sal-1",
+        "Ten": "Nguyễn Thanh Hải",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1984",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h51.JPG"
+      },
+      {
+        "MaThanhVien": "Sal-2",
+        "Ten": "Nguyễn Công Anh",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/08/1986",
+        "CongTy": "Decior",
+        "Hinh": "img/h52.JPG"
+      },
+      {
+        "MaThanhVien": "Sal-3",
+        "Ten": "Nguyễn Thị Hồng Anh",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/06/1990",
+        "CongTy": "Converachi",
+        "Hinh": "img/h53.JPG"
+      },
+      {
+        "MaThanhVien": "Sal-4",
+        "Ten": "Nguyễn Đức Xu",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/06/1996",
+        "CongTy": "Magnolia Travel",
+        "Hinh": "img/h54.JPG"
+      },
+      {
+        "MaThanhVien": "Sal-5",
+        "Ten": "Nguyễn Ngọc Kiều",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/09/1986",
+        "CongTy": "Snapplan",
+        "Hinh": "img/h55.JPG"
+      },
+      {
+        "MaThanhVien": "Sal-6",
+        "Ten": "Nguyễn Đình Thương ",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/12/1986",
+        "CongTy": "Kloudery",
+        "Hinh": "img/h56.JPG"
+      },
+      {
+        "MaThanhVien": "Sal-7",
+        "Ten": "Phan Văn Mạnh",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/2/1989",
+        "CongTy": "NHK Shopfittings",
+        "Hinh": "img/h57.JPG"
+      },
+      {
+        "MaThanhVien": "Sal-8",
+        "Ten": "Nguyễn Thị Ái",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/2/1989",
+        "CongTy": "PFM",
+        "Hinh": "img/h58.JPG"
+      },
+      {
+        "MaThanhVien": "Sal-9",
+        "Ten": "Nguyễn Hữu Lê",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/4/1993",
+        "CongTy": "Decior",
+        "Hinh": "img/h59.JPG"
+      },
+      {
+        "MaThanhVien": "Sal-10",
+        "Ten": "Nguyễn Văn Long",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "10/9/1993",
+        "CongTy": "Kloudery",
+        "Hinh": "img/h60.JPG"
+      },
+      {
+        "MaThanhVien": "Sal-11",
+        "Ten": "Nguyễn Việt Anh",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/9/1993",
+        "CongTy": "KitFE",
+        "Hinh": "img/h61.JPG"
+      },
+      {
+        "MaThanhVien": "Sal-12",
+        "Ten": "Phạm Quốc Cường",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "13/9/1994",
+        "CongTy": "S-Vietnam",
+        "Hinh": "img/h62.JPG"
+      },
+      {
+        "MaThanhVien": "Sal-13",
+        "Ten": "Phạm Hùng",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "19/9/1994",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h63.JPG"
+      },
+      {
+        "MaThanhVien": "Sal-14",
+        "Ten": "Phạm Ngọc Gia Huy",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "21/9/1985",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h64.JPG"
+      },
+      {
+        "MaThanhVien": "Sal-15",
+        "Ten": "Phan Minh Đức",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "21/6/1985",
+        "CongTy": "DHU",
+        "Hinh": "img/h65.JPG"
+      },
+      {
+        "MaThanhVien": "Sal-16",
+        "Ten": "Phí Vĩnh Thụy",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/6/1985",
+        "CongTy": "Helium",
+        "Hinh": "img/h66.JPG"
+      },
+      {
+        "MaThanhVien": "Sal-17",
+        "Ten": "Trần Phước Hòa",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "11/8/1985",
+        "CongTy": "Converachi",
+        "Hinh": "img/h67.JPG"
+      },
+      {
+        "MaThanhVien": "Sal-18",
+        "Ten": "Lê Ngọc Quân",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/8/1985",
+        "CongTy": "DHU",
+        "Hinh": "img/h68.JPG"
+      },
+      {
+        "MaThanhVien": "Sal-19",
+        "Ten": "Tạ Thị Hồng Nhung",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "17/8/1984",
+        "CongTy": "Helium",
+        "Hinh": "img/h69.JPG"
+      },
+      {
+        "MaThanhVien": "Sal-20",
+        "Ten": "Phạm Xuân Trường",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "20/8/1986",
+        "CongTy": "DHU",
+        "Hinh": "img/h60.JPG"
+      }
+    ]
+  },
+  {
+    "IdJob": "Service",
+    "Mieuta": "Dịch vụ là một ngành công nghiệp vô cùng đặc biệt khi sản phẩm mà nó tạo ra mang tính vô hình, phi vật chất. ",
+    "Hinh": "img/Service.jpg",
+    "ThanhVien": [
+      {
+        "MaThanhVien": "Ser-1",
+        "Ten": "Tạ Hồng Hải",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Hồ Chí Minh",
+        "NgaySinh": "15/08/1984",
+        "CongTy": "Kloudery",
+        "Hinh": "img/h1.JPG"
+      },
+      {
+        "MaThanhVien": "Ser-2",
+        "Ten": "Võ Ngọc Gìau",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "10/08/1986",
+        "CongTy": "Decior",
+        "Hinh": "img/h2.JPG"
+      },
+      {
+        "MaThanhVien": "Ser-3",
+        "Ten": "Trương Tuấn Kiệt",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "10/06/1990",
+        "CongTy": "Converachi",
+        "Hinh": "img/h3.JPG"
+      },
+      {
+        "MaThanhVien": "Ser-4",
+        "Ten": "Đặng Thị Hà Thanh",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "11/06/1996",
+        "CongTy": "Magnolia Travel",
+        "Hinh": "img/h4.JPG"
+      },
+      {
+        "MaThanhVien": "Ser-5",
+        "Ten": "Trần Quang Đại",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "11/09/1986",
+        "CongTy": "Snapplan",
+        "Hinh": "img/h5.JPG"
+      },
+      {
+        "MaThanhVien": "Ser-6",
+        "Ten": "Đỗ Hải",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "11/12/1986",
+        "CongTy": "Kloudery",
+        "Hinh": "img/h6.JPG"
+      },
+      {
+        "MaThanhVien": "Ser-7",
+        "Ten": "Đoàn Phương Yến",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "15/2/1989",
+        "CongTy": "NHK Shopfittings",
+        "Hinh": "img/h7.JPG"
+      },
+      {
+        "MaThanhVien": "Ser-8",
+        "Ten": "Lê Đại",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "10/2/1989",
+        "CongTy": "PFM",
+        "Hinh": "img/h8.JPG"
+      },
+      {
+        "MaThanhVien": "Ser-9",
+        "Ten": "Hoàng Việt Nam",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "10/4/1993",
+        "CongTy": "Decior",
+        "Hinh": "img/h9.JPG"
+      },
+      {
+        "MaThanhVien": "Ser-10",
+        "Ten": "Poley Badin",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "10/9/1993",
+        "CongTy": "Kloudery",
+        "Hinh": "img/h10.JPG"
+      },
+      {
+        "MaThanhVien": "Ser-11",
+        "Ten": "Lý Thái",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "15/9/1993",
+        "CongTy": "KitFE",
+        "Hinh": "img/h11.JPG"
+      },
+      {
+        "MaThanhVien": "Ser-12",
+        "Ten": "Nguyễn Hoàng Uyên",
+        "GioiTinh": "Nữ",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "13/9/1994",
+        "CongTy": "S-Vietnam",
+        "Hinh": "img/h12.JPG"
+      },
+      {
+        "MaThanhVien": "Ser-13",
+        "Ten": "Lê Đức Trọng",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "19/9/1994",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h13.JPG"
+      },
+      {
+        "MaThanhVien": "Ser-14",
+        "Ten": "Lê Trung",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "21/9/1985",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h14.JPG"
+      },
+      {
+        "MaThanhVien": "Ser-15",
+        "Ten": "Lê Văn Hà Anh",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "21/6/1985",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h15.JPG"
+      },
+      {
+        "MaThanhVien": "Ser-16",
+        "Ten": "Lý Long",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "11/6/1985",
+        "CongTy": "SeeSpace",
+        "Hinh": "img/h16.JPG"
+      },
+      {
+        "MaThanhVien": "Ser-17",
+        "Ten": "Nguyễn Trung Hậu",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "11/8/1985",
+        "CongTy": "Converachi",
+        "Hinh": "img/h17.JPG"
+      },
+      {
+        "MaThanhVien": "Ser-18",
+        "Ten": "Nguyễn Quân",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "15/8/1985",
+        "CongTy": "KitFE",
+        "Hinh": "img/h18.JPG"
+      },
+      {
+        "MaThanhVien": "Ser-19",
+        "Ten": "Nguyễn Bảo Hiếu",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "17/8/1984",
+        "CongTy": "KitFE",
+        "Hinh": "img/h19.JPG"
+      },
+      {
+        "MaThanhVien": "Ser-20",
+        "Ten": "Nguyễn Cao An",
+        "GioiTinh": "Nam",
+        "ĐiaChi": "Việt Nam",
+        "NgaySinh": "20/8/1986",
+        "CongTy": "KitFE",
+        "Hinh": "img/h20.JPG"
+      }
+    ]
+  }
+]
